@@ -75,7 +75,8 @@ namespace oop_c_sharp_assignment {
             p2.sameMethodInBothClass();
 
             // Abstraction
-            p2.methodOfPainting();
+            Painter painter1 = new Painter();
+            painter1.methodOfPainting();
             
         }
     }
