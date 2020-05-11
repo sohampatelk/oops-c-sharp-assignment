@@ -1,0 +1,11 @@
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\bin\Debug\netcoreapp3.1\oop-c-sharp-assignment.exe
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\bin\Debug\netcoreapp3.1\oop-c-sharp-assignment.deps.json
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\bin\Debug\netcoreapp3.1\oop-c-sharp-assignment.runtimeconfig.json
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\bin\Debug\netcoreapp3.1\oop-c-sharp-assignment.runtimeconfig.dev.json
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\bin\Debug\netcoreapp3.1\oop-c-sharp-assignment.dll
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\bin\Debug\netcoreapp3.1\oop-c-sharp-assignment.pdb
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\obj\Debug\netcoreapp3.1\oop-c-sharp-assignment.csprojAssemblyReference.cache
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\obj\Debug\netcoreapp3.1\oop-c-sharp-assignment.AssemblyInfoInputs.cache
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\obj\Debug\netcoreapp3.1\oop-c-sharp-assignment.AssemblyInfo.cs
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\obj\Debug\netcoreapp3.1\oop-c-sharp-assignment.dll
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\oop-c-sharp-assignment\obj\Debug\netcoreapp3.1\oop-c-sharp-assignment.pdb
